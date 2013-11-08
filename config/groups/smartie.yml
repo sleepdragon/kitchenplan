@@ -6,11 +6,11 @@ recipes:
         - applications::psycopg2
         - applications::mysql
         - applications::mysql_python
-        - applications::apache
-        - applications::php55
-        - dotfiles::kdeploy
+        # - applications::apache
+        # - applications::php55
+        # - dotfiles::kdeploy
     mac_os_x:
-        - applications::hipchat
+        # - applications::hipchat
         - osxdefaults::disable_disk_image_verification
         - osxdefaults::disable_gatekeeper
         - osxdefaults::disable_front_row
