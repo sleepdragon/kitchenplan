@@ -15,6 +15,7 @@ recipes:
         #- applications::tower
         - applications::vlc
         - applications::iterm2
+        - applications::emacs
         #- applications::superduper
         #- applications::alfred
         #- applications::totalfinder
