@@ -2,6 +2,7 @@ recipes:
     global:
         - applications::git
         - applications::wget
+        - applications::nginx
         # - applications::pwgen
         # - applications::xmlstarlet
         # - applications::pv
