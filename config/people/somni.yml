@@ -16,6 +16,7 @@ recipes:
         - applications::vlc
         - applications::iterm2
         - applications::emacs
+        - applications::unrar
         #- applications::superduper
         #- applications::alfred
         #- applications::totalfinder
