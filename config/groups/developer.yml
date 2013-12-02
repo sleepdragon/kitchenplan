@@ -13,7 +13,7 @@ recipes:
         # - applications::git-flow
         # - applications::sass
         # - applications::siege
-        # - applications::nodejs
+        - applications::nodejs
         # - applications::ssh_config
         - dotfiles::vim
         # - applications::composer
